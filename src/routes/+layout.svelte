@@ -2,7 +2,12 @@
 	import '$styles/globals.css';
 	import type { LayoutData } from './$types';
 
-	export let data: LayoutData;
+	import Navbar from '$/lib/components/layout/navbar.svelte';
+	import Footer from '$/lib/components/layout/footer.svelte';
+
+	// export let data: LayoutData;
 </script>
 
+<Navbar />
 <slot />
+<Footer />
