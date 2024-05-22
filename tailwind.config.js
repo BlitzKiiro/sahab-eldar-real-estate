@@ -4,7 +4,10 @@ export default {
 	theme: {
 		extend: {
 			colors: {
-				'theme-black': '#333333'
+				theme: {
+					black: '#333333',
+					gray: '#545454'
+				}
 			}
 		}
 	},
