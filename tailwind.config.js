@@ -6,7 +6,9 @@ export default {
 			colors: {
 				theme: {
 					black: '#333333',
-					gray: '#545454'
+					gray: '#545454',
+					skyblue: '#EAF1FF',
+					indigo: '#030718'
 				}
 			}
 		}
