@@ -8,5 +8,6 @@ html {
 	font-family: 'Almarai';
 	font-style: normal;
 	font-weight: 400;
+	scroll-behavior: smooth;
 	@apply text-theme-black;
 }
