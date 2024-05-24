@@ -2,7 +2,7 @@
 	<div
 		dir="rtl"
 		id="about"
-		class="w-[1080px] max-w-[90vw] mx-auto text-right my-36"
+		class="w-[1080px] max-w-[90vw] mx-auto text-right mt-36"
 		data-aos="fade-left"
 		data-aos-once="true"
 	>
@@ -18,5 +18,15 @@
 		<p class="text-lg lg:text-xl text-theme-gray mt-2">
 			اتصل بنا اليوم للاستفسار عن خدماتنا واكتشاف كيف يمكننا مساعدتك في إدارة عقاراتك بكفاءة وثقة!
 		</p>
+	</div>
+	<div class="my-14 w-[min(640px,90vw)] mx-auto">
+		<!-- svelte-ignore a11y-missing-attribute -->
+		<iframe
+			src="https://jumpshare.com/embed/GwCF3sbjbWPgafU8edzb"
+			frameborder="0"
+			width="100%"
+			height="360"
+			allowfullscreen={true}
+		></iframe>
 	</div>
 </div>
