@@ -10,9 +10,11 @@
 <svelte:head>
 	<title>سحاب الدار للتسويق العقاري</title>
 </svelte:head>
-<Header />
-<Results />
-<About />
-<Services />
-<Partners />
-<Contact />
+<div class="max-w-screen overflow-hidden">
+	<Header />
+	<Results />
+	<About />
+	<Services />
+	<Partners />
+	<Contact />
+</div>
