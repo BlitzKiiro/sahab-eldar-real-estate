@@ -38,7 +38,7 @@
 
 <div
 	id="services"
-	class="w-full flex lg:flex-row flex-col items-center lg:items-start justify-center lg:justify-between bg-theme-indigo py-64 gap-y-64"
+	class="w-full flex lg:flex-row flex-col items-center lg:items-start justify-center lg:justify-between bg-theme-indigo py-32 lg:py-64 gap-y-16"
 >
 	<div class=" lg:order-1 order-2" data-aos="fade-right" data-aos-once="true">
 		<div class="gallery w-full">
