@@ -1,6 +1,6 @@
 <div
 	id="contact"
-	class="w-full bg-theme-indigo py-64 px-12 flex flex-col gap-12 items-center text-white"
+	class="w-full bg-theme-indigo py-12 lg:py-64 px-12 flex flex-col gap-12 items-center text-white overflow-x-hidden"
 >
 	<h1
 		data-aos="fade-down"
@@ -12,7 +12,7 @@
 	<p data-aos="fade-up" data-aos-once="true" class="text-xl">تواصل معنا</p>
 
 	<div
-		class="flex flex-col lg:flex-row justify-between items-center my-32 w-[min(1200px,90vw)] gap-12"
+		class="flex flex-col lg:flex-row justify-between items-center my-6 lg:my-32 w-[min(1200px,90vw)] gap-12"
 	>
 		<!-- svelte-ignore a11y-missing-attribute -->
 		<!-- svelte-ignore invalid-html-attribute -->
@@ -21,12 +21,17 @@
 			data-aos-once="true"
 			src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d463928.4575429797!2d46.637078716476644!3d24.71173331485359!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e2f03890d489399%3A0xba974d1c98e79fd5!2sRiyadh%20Saudi%20Arabia!5e0!3m2!1sen!2seg!4v1695997650176!5m2!1sen!2seg"
 			height="450"
-			class="border-0 w-[min(600px,90vw)]"
+			class="border-0 w-[min(600px,90vw)] order-2 lg:order-1"
 			allowFullScreen={true}
 			loading="lazy"
 			referrerPolicy="no-referrer-when-downgrade"
 		></iframe>
-		<div data-aos="fade-left" data-aos-once="true" class="text-right flex flex-col gap-6" dir="rtl">
+		<div
+			data-aos="fade-left"
+			data-aos-once="true"
+			class="text-right flex flex-col gap-6 order-1 lg:order-2"
+			dir="rtl"
+		>
 			<div class="flex gap-2 items-center">
 				<svg
 					xmlns="http://www.w3.org/2000/svg"
