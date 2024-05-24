@@ -83,7 +83,7 @@
 	<dir
 		data-aos="fade-left"
 		data-aos-once="true"
-		class="flex flex-col gap-8 lg:ap-16 justify-center h-full lg:order-2 order-1 lg:mr-[15vw] mx-3"
+		class="flex flex-col gap-8 lg:ap-16 justify-center h-full lg:order-2 order-1 lg:mr-[15vw] mx-3 px-4"
 		dir="rtl"
 	>
 		<h1 class="text-white font-bold text-4xl">خدماتنا</h1>
