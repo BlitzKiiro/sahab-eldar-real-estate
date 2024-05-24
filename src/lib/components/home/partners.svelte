@@ -15,7 +15,7 @@
 		الشريكة لدفع القيمة المشتركة والابتكار نحن خبراء تقييم نقدم لعملائنا من البنوك والشركات والافراد
 		اعمال التقييم العقاري بجميع انواعه
 	</p>
-	<div class="flex flex-wrap justify-center gap-6 mt-8 lg:mt-[100px] h-[250px]" dir="rtl">
+	<div class="flex flex-wrap justify-center gap-6 mt-8 lg:mt-[100px]" dir="rtl">
 		<div
 			class="bg-theme-light-blue p-5 rounded-xl flex items-center justify-center w-[350px]"
 			data-aos="fade-up"
