@@ -4,7 +4,7 @@
 	import 'aos/dist/aos.css';
 
 	// svelte
-	import type { LayoutData } from './$types';
+	// import type { LayoutData } from './$types';
 	import { onMount } from 'svelte';
 
 	// libs

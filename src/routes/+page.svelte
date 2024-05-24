@@ -4,6 +4,7 @@
 	import About from '$/lib/components/home/about.svelte';
 	import Services from '$/lib/components/home/services.svelte';
 	import Partners from '$/lib/components/home/partners.svelte';
+	import Contact from '$/lib/components/home/contact.svelte';
 </script>
 
 <svelte:head>
@@ -14,3 +15,4 @@
 <About />
 <Services />
 <Partners />
+<Contact />
