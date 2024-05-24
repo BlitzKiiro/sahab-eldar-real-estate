@@ -6,6 +6,9 @@
 	import Partners from '$/lib/components/home/partners.svelte';
 </script>
 
+<svelte:head>
+	<title>سحاب الدار للتسويق العقاري</title>
+</svelte:head>
 <Header />
 <Results />
 <About />
