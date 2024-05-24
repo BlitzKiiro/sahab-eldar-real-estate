@@ -2,11 +2,11 @@
 	import AnimatedLogo from '$assets/imgs/animated-logo.gif';
 </script>
 
-<div class="mt-[100px]">
+<div class="lg:mt-[100px]">
 	<img src={AnimatedLogo} alt="logo" class=" mx-auto" />
 </div>
 <div
-	class="mb-[100px] mx-auto justify-center items-center grid grid-cols-4 lg:flex lg:flex-row gap-4 gap-y-12 lg:gap-[100px] px-8"
+	class="lg:mb-[100px] mx-auto justify-center items-center grid grid-cols-4 lg:flex lg:flex-row gap-4 gap-y-12 lg:gap-[100px] px-8"
 	dir="rtl"
 >
 	<div
