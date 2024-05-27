@@ -5,16 +5,8 @@
 </script>
 
 <div class="bg-cyan my-28 flex flex-col justify-center items-center gap-4" id="partners">
-	<h1 class="font-bold text-4xl" data-aos="fade-up" data-aos-once="true">شركائنا</h1>
-	<p
-		class="text-theme-medium-gray text-2xl text-center w-[min(750px,90vw)]"
-		data-aos="fade-up"
-		data-aos-once="true"
-	>
-		الشراكة هي إحدى القيم الأساسية لسحاب الدار. نحن نتعاون عبر مجموعة متنوعة للشركات والمنظمات
-		الشريكة لدفع القيمة المشتركة والابتكار نحن خبراء تقييم نقدم لعملائنا من البنوك والشركات والافراد
-		اعمال التقييم العقاري بجميع انواعه
-	</p>
+	<h1 class="font-bold text-4xl" data-aos="fade-up" data-aos-once="true">شركاء النجاح</h1>
+
 	<div class="flex flex-wrap justify-center gap-6 mt-8 lg:mt-[100px]" dir="rtl">
 		<div
 			class="bg-theme-light-blue p-5 rounded-xl flex items-center justify-center w-[350px]"
