@@ -59,7 +59,7 @@
 					<SplideSlide>
 						<div class="h-full items-center flex flex-col gap-[52px]">
 							<img src={CollectionImage} alt="RentingImage" class="h-[400px] object-cover" />
-							<p class=" text-white text-2xl">التحصيل</p>
+							<p class=" text-white text-2xl">إدارة أملاك</p>
 						</div>
 					</SplideSlide>
 				</Splide>
@@ -100,7 +100,7 @@
 				وجاذبيته.
 			</p>
 			<p class="text-theme-dark-gray lg:w-[20vw]">
-				التحصيل: نقوم بجمع الإيجارات بدقة وفعالية، مما يسهم في تحقيق أقصى عائد ممكن على عقارك.
+				إدارة الأملاك: نقوم بجمع الإيجارات بدقة وفعالية، مما يسهم في تحقيق أقصى عائد ممكن على عقارك.
 			</p>
 		</div>
 	</dir>
