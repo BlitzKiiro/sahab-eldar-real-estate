@@ -21,7 +21,7 @@
 <div class="my-14 w-[min(640px,90vw)] mx-auto">
 	<!-- svelte-ignore a11y-missing-attribute -->
 	<iframe
-		src="https://jumpshare.com/embed/GwCF3sbjbWPgafU8edzb"
+		src="https://jumpshare.com/embed/K9mdogOlpGOAeQgcksLa"
 		frameborder="0"
 		width="100%"
 		height="360"
