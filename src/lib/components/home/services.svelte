@@ -47,7 +47,7 @@
 					<SplideSlide>
 						<div class="h-full items-center flex flex-col gap-[52px]">
 							<img src={RentingImage} alt="RentingImage" class="h-[400px] object-cover" />
-							<p class=" text-white text-2xl">التسويق والتأجير</p>
+							<p class=" text-white text-2xl">التسويق العقاري</p>
 						</div>
 					</SplideSlide>
 					<SplideSlide>
@@ -86,14 +86,13 @@
 		class="flex flex-col gap-8 lg:ap-16 justify-center h-full lg:order-2 order-1 lg:mr-[15vw] mx-3 px-4"
 		dir="rtl"
 	>
-		<h1 class="text-white font-bold text-4xl">خدماتنا</h1>
 		<div class="flex flex-col gap-2">
 			<p class="text-theme-dark-gray lg:w-[20vw]">
 				مع خبرتنا الواسعة في مجال إدارة العقارات السكنية والتجارية، نقدم لكم باقة شاملة من الخدمات
 				والتي تشمل
 			</p>
 			<p class="text-theme-dark-gray lg:w-[20vw]">
-				التسويق والتأجير: نقوم بتسويق عقارك بشكل فعّال ونضمن استئجاره بأفضل الشروط والأسعار.
+				التسويق العقاري: نقوم بتسويق عقارك بشكل فعّال ونضمن استئجاره بأفضل الشروط والأسعار.
 			</p>
 			<p class="text-theme-dark-gray lg:w-[20vw]">
 				الصيانة والتشغيل: نهتم بصيانة عقارك بدقة ونقوم بتشغيله بكفاءة لضمان استمرارية قيمته
