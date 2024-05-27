@@ -29,11 +29,6 @@
 		},
 
 		{
-			name: 'شركائنا',
-			url: '/#partners'
-		},
-
-		{
 			name: 'تواصل معنا',
 			url: '/#contact'
 		}
