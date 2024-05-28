@@ -12,6 +12,7 @@
 	import RentingImage from '$assets/imgs/renting.jpg';
 	import MaintenanceImage from '$assets/imgs/maintenance.jpg';
 	import CollectionImage from '$assets/imgs/collection.jpg';
+	import MediationImage from '$assets/imgs/mediation.jpg';
 	import RightArrow from '$assets/imgs/right-arrow.svg';
 	import LeftArrow from '$assets/imgs/left-arrow.svg';
 
@@ -62,6 +63,12 @@
 							<p class=" text-white text-2xl">إدارة أملاك</p>
 						</div>
 					</SplideSlide>
+					<SplideSlide>
+						<div class="h-full items-center flex flex-col gap-[52px]">
+							<img src={MediationImage} alt="RentingImage" class="h-[400px] object-cover" />
+							<p class=" text-white text-2xl">الوساطه العقارية</p>
+						</div>
+					</SplideSlide>
 				</Splide>
 			</div>
 			<div class="flex gap-3 lg:ml-[100px] lg:justify-start justify-center">
@@ -100,6 +107,10 @@
 			</p>
 			<p class="text-theme-dark-gray lg:w-[20vw]">
 				إدارة الأملاك: نقوم بجمع الإيجارات بدقة وفعالية، مما يسهم في تحقيق أقصى عائد ممكن على عقارك.
+			</p>
+			<p class="text-theme-dark-gray lg:w-[20vw]">
+				الوساطة العقارية: نقدم خدمات الوساطة العقارية لضمان بيع أو شراء عقارك بأفضل الأسعار والشروط،
+				مع الالتزام بالشفافية والمهنية في كل خطوة.
 			</p>
 		</div>
 	</dir>
