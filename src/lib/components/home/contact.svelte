@@ -70,7 +70,8 @@
 					/>
 				</svg>
 
-				<p class="text-lg">0581222287</p>
+				<a href="https://wa.me/9660581222287" target="_blank_number_1" class="text-lg">0581222287</a
+				>
 			</div>
 			<div class="flex gap-2 items-center">
 				<svg
@@ -88,7 +89,8 @@
 					/>
 				</svg>
 
-				<p class="text-lg">0552580858</p>
+				<a href="https://wa.me/9660552580858" target="_blank_number_2" class="text-lg">0552580858</a
+				>
 			</div>
 			<div class="flex gap-2 items-center">
 				<svg
