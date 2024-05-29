@@ -39,7 +39,7 @@
 
 <div
 	id="services"
-	class="w-full flex lg:flex-row flex-col items-center lg:items-start justify-center lg:justify-between bg-theme-indigo py-32 lg:py-64 gap-y-16"
+	class="w-full flex lg:flex-row flex-col items-center lg:items-start justify-center bg-theme-indigo py-32 lg:py-64 gap-y-16"
 >
 	<div class=" lg:order-1 order-2" data-aos="fade-right" data-aos-once="true">
 		<div class="gallery w-full">
@@ -71,7 +71,7 @@
 					</SplideSlide>
 				</Splide>
 			</div>
-			<div class="flex gap-3 lg:ml-[100px] lg:justify-start justify-center">
+			<div class="flex gap-3 justify-center">
 				<button
 					on:click={() => changeSlide('+1')}
 					class="w-14 h-14 bg-transparent items-center justify-center"
@@ -87,31 +87,4 @@
 			</div>
 		</div>
 	</div>
-	<dir
-		data-aos="fade-left"
-		data-aos-once="true"
-		class="flex flex-col gap-8 lg:ap-16 justify-center h-full lg:order-2 order-1 lg:mr-[15vw] mx-3 px-4"
-		dir="rtl"
-	>
-		<div class="flex flex-col gap-2">
-			<p class="text-theme-dark-gray lg:w-[20vw]">
-				مع خبرتنا الواسعة في مجال إدارة العقارات السكنية والتجارية، نقدم لكم باقة شاملة من الخدمات
-				والتي تشمل
-			</p>
-			<p class="text-theme-dark-gray lg:w-[20vw]">
-				التسويق العقاري: نقوم بتسويق عقارك بشكل فعّال ونضمن استئجاره بأفضل الشروط والأسعار.
-			</p>
-			<p class="text-theme-dark-gray lg:w-[20vw]">
-				الصيانة والتشغيل: نهتم بصيانة عقارك بدقة ونقوم بتشغيله بكفاءة لضمان استمرارية قيمته
-				وجاذبيته.
-			</p>
-			<p class="text-theme-dark-gray lg:w-[20vw]">
-				إدارة الأملاك: نقوم بجمع الإيجارات بدقة وفعالية، مما يسهم في تحقيق أقصى عائد ممكن على عقارك.
-			</p>
-			<p class="text-theme-dark-gray lg:w-[20vw]">
-				الوساطة العقارية: نقدم خدمات الوساطة العقارية لضمان بيع أو شراء عقارك بأفضل الأسعار والشروط،
-				مع الالتزام بالشفافية والمهنية في كل خطوة.
-			</p>
-		</div>
-	</dir>
 </div>
