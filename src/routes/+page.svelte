@@ -5,7 +5,6 @@
 	import Services from '$/lib/components/home/services.svelte';
 	import Partners from '$/lib/components/home/partners.svelte';
 	import Contact from '$/lib/components/home/contact.svelte';
-	import Whatsapp from '$/lib/components/floating buttons/whatsapp.svelte';
 </script>
 
 <svelte:head>
@@ -18,5 +17,4 @@
 	<Services />
 	<Partners />
 	<Contact />
-	<Whatsapp />
 </div>
